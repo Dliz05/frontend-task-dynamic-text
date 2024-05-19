@@ -1,0 +1,18 @@
+.outer-container{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    box-shadow: 0 4px 4px rgba(30, 14, 14, 0.2);
+}
+.title{
+    margin-left:20px;
+}
+.try-button{
+    margin-right:20px;
+    width:120px;
+    height:30px;
+    background-color: black;
+    color: white;
+    box-shadow: 0 4px 4px rgba(30, 14, 14, 0.2);
+    border-radius: 5px;
+}
